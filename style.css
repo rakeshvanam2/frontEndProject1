@@ -65,8 +65,8 @@ button{
     transform: translateY(-50%);
 }
 .info h1{
-    font-size: 60px;
-    letter-spacing: 10px;
+    font-size: 100px;
+    letter-spacing: 20px;
 }
 .info p{
     color: #f0eef1;
@@ -83,7 +83,7 @@ button{
     border-radius: 20px;
     background: transparent;
     color: #fff;
-    font-size: 12px;
+    font-size: 30px;
 }
 ::placeholder{
     color: #ccc;
