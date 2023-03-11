@@ -65,9 +65,8 @@ button{
     transform: translateY(-50%);
 }
 .info h1{
-    font-size: 100px;
+    font-size: 80px;
     letter-spacing: 10px;
-    right: 0;
 
 }
 .info p{
