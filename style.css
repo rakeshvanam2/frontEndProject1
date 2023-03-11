@@ -67,6 +67,7 @@ button{
 .info h1{
     font-size: 100px;
     letter-spacing: 20px;
+    right: 0;
 }
 .info p{
     color: #f0eef1;
