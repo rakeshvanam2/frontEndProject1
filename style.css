@@ -66,12 +66,13 @@ button{
 }
 .info h1{
     font-size: 100px;
-    letter-spacing: 20px;
+    letter-spacing: 10px;
     right: 0;
+
 }
 .info p{
     color: #f0eef1;
-    font-size: 11px;
+    font-size: 20px;
     margin: 20px 0;
     line-height: 18px;
 
@@ -84,7 +85,7 @@ button{
     border-radius: 20px;
     background: transparent;
     color: #fff;
-    font-size: 30px;
+    font-size: 12px;
 }
 ::placeholder{
     color: #ccc;
